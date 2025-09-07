@@ -6,18 +6,6 @@ In addition to analysis, it applies predictive models to forecast absenteeism ri
 # Tools
 + ### Microsoft Excel: Used for data loading and cleaning, transforming the dataset into a suitable format for analysis.
 + ### Power BI: Used for addition of new measures and new columns and data visualizations.
-
-## Objectives
-+ #### Clean and preprocess raw absenteeism data
-
-+ #### Perform Exploratory Data Analysis (EDA)
-
-+ #### Identify key drivers of absenteeism (e.g., health, distance, seasons)
-
-+ #### Train and evaluate ML models to predict absenteeism risk
-
-+ #### Provide actionable recommendations for HR policy improvement
-
 ---
 
 # Dataset
@@ -77,6 +65,17 @@ After importing the data into Power BI, the following additions were made:
 
 #### These engineered features make the dataset cleaner and more interpretable, allowing better visualization and HR decision-making.
 <img width="927" height="405" alt="Screenshot 2025-09-07 130503" src="https://github.com/user-attachments/assets/75d2b9de-c5a8-4f32-ba30-8400ea02ea05" />
+
+## Objectives
++ ### Clean and preprocess raw absenteeism data
++ ### Perform Exploratory Data Analysis (EDA)
++ ### Identify key drivers of absenteeism (e.g., health, distance, seasons)
++ ### Train and evaluate ML models to predict absenteeism risk
++ ### Provide actionable recommendations for HR policy improvement
+
+## Data Analysis and Visualization
+
+
 
 
 
