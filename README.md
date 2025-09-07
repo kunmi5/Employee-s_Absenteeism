@@ -65,5 +65,18 @@ After importing the data into Power BI, the following additions were made:
 
 <img width="922" height="404" alt="Screenshot 2025-09-07 130609" src="https://github.com/user-attachments/assets/1acfbf83-3d2a-4e1d-915c-1a2153a0f5ac" />
 
++ ### A calculated Absenteeism reason column → Simplified categories from numeric codes
+
+#### Incomplete submission (code = 0)
+
+#### Family-related (codes ≤ 4)
+
+#### Unjustified leave (code = 26)
+
+#### Medical reasons (all other codes)
+
+#### These engineered features make the dataset cleaner and more interpretable, allowing better visualization and HR decision-making.
+<img width="927" height="405" alt="Screenshot 2025-09-07 130503" src="https://github.com/user-attachments/assets/75d2b9de-c5a8-4f32-ba30-8400ea02ea05" />
+
 
 
