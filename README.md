@@ -74,6 +74,22 @@ After importing the data into Power BI, the following additions were made:
 + ### Provide actionable recommendations for HR policy improvement
 
 ## Data Analysis and Visualization
++ ### Total Absences by Season  
+   - #### Spring had the highest number of absences (195), followed by Summer (159). Autumn and Winter had the lowest and almost equal absenteeism rates, suggesting possible seasonal effects on attendance.
+<img width="253" height="210" alt="Screenshot 2025-09-07 141505" src="https://github.com/user-attachments/assets/e1b14cdd-a90e-4a86-8221-780a636a4563" />
+
++ ### Absenteeism Reasons  
+   - #### Medical reasons are by far the leading cause of absenteeism (555 cases), making up the majority. Other causes like incomplete submission (34), unjustified leave (30), and family-related issues (20) are minimal in comparison.
+<img width="342" height="178" alt="Screenshot 2025-09-07 141517" src="https://github.com/user-attachments/assets/a0be9c72-6015-4943-bfb6-69d10f9fd481" />
+
++ ### Count of BMI  
+   - #### Most employees fall under the normal BMI category (15 people, 40.54%). Overweight (12 people, 32.43%) and obese (10 people, 27.03%) follow, indicating that a notable portion of the workforce may be at risk of health-related absenteeism.
+<img width="218" height="150" alt="Screenshot 2025-09-07 141603" src="https://github.com/user-attachments/assets/71ae9803-e257-4e60-acaa-93e37cd6cc6e" />
+
++ ### Count of Absenteeism Reason by Month  
+   - #### March and February show the highest absenteeism counts, largely driven by medical reasons. There are consistent medical absences throughout the year, while other reasons like family or incomplete submission appear sporadically.
+<img width="606" height="143" alt="Screenshot 2025-09-07 141539" src="https://github.com/user-attachments/assets/3df9428d-05b0-4e78-9944-d7345085b311" />
+
 
 
 
