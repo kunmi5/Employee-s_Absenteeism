@@ -52,4 +52,16 @@ In addition to analysis, it applies predictive models to forecast absenteeism ri
 After importing the data into Power BI, the following additions were made:
 
 + ### A calculated Body Mass Index (BMI) field was derived to analyze the relationship between health and absenteeism which helped to highlight Obese, Overweight or Normal employees.
+<img width="927" height="405" alt="Screenshot 2025-09-07 130738" src="https://github.com/user-attachments/assets/ea748a22-13b5-4479-ba34-a2f9a8c3302b" />
+
++ ### A calculated Season was derived Based on Month of Absence. These engineered features make it easier to identify seasonal patterns in absenteeism.
+#### Winter: December – February
+
+#### Spring: March – May
+
+#### Summer: June – August
+
+#### Autumn: September – November
+
+
 
