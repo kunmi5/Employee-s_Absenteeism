@@ -63,5 +63,7 @@ After importing the data into Power BI, the following additions were made:
 
 #### Autumn: September – November
 
+<img width="922" height="404" alt="Screenshot 2025-09-07 130609" src="https://github.com/user-attachments/assets/1acfbf83-3d2a-4e1d-915c-1a2153a0f5ac" />
+
 
 
