@@ -48,3 +48,8 @@ In addition to analysis, it applies predictive models to forecast absenteeism ri
 
 <img width="924" height="409" alt="Screenshot 2025-09-03 020237" src="https://github.com/user-attachments/assets/2a599602-53da-4a4b-9de2-5892c78b1752" />
 
+## Data Preparation in Power BI
+After importing the data into Power BI, the following additions were made:
+
++ ### A calculated Body Mass Index (BMI) field was derived to analyze the relationship between health and absenteeism which helped to highlight Obese, Overweight or Normal employees.
+
